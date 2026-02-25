@@ -1,0 +1,5 @@
+Hello world
+This is a test file
+C# programming
+Binary and text files
+Laboratory work
